@@ -2,7 +2,7 @@
 
 **`Entusiasta de Tecnologia`**
 
-Me chamo Vinicius, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Ciécia da computação na CZS.
+Me chamo Vinicius, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Ciéncia da computação na CZS.
 
 
 <p align="left">
