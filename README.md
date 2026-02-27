@@ -7,7 +7,7 @@ Me chamo Vinicius, tenho 24 anos e sou natural de São Paulo. Atualmente, estou 
 
 <p align="left">
 
-<a href="www.linkedin.com/in/vinicius-gamba">
+<a href="https://www.linkedin.com/in/vinicius-gamba/">
         <img 
             alt="LinkdIn" 
             title="Me siga no LinkdIn" 
